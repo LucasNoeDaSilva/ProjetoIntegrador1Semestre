@@ -1,5 +1,5 @@
 # 📌 **Repositório:** Projeto Integrador — 1º Semestre
-# 👋 Olá! Eu sou o Lucas
+## 👋 Olá! Eu sou o Lucas
 
 ### 🎓 Curso: Sistemas para Internet
 ### 🏫 Centro Universitário Santo Amaro
