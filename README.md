@@ -1,3 +1,4 @@
+# 📌 **Repositório:** Projeto Integrador — 1º Semestre
 # 👋 Olá! Eu sou o Lucas
 
 ### 🎓 Curso: Sistemas para Internet
@@ -25,8 +26,6 @@ O projeto representa uma oportunidade de colocar em prática os conhecimentos ad
 - 🔧 Versionamento de código
 - 🤝 Desenvolvimento colaborativo
 - 🛠️ Resolução de problemas
-
-> 📌 **Repositório:** Projeto Integrador — 1º Semestre
 
 ---
 
