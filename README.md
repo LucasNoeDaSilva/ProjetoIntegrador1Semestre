@@ -1,4 +1,6 @@
-🔗 Repositório: ProjetoIntegrador1Semestre
+🔗 Repositório: Projeto Integrador 1º Semestre
+Curso: Sistemas para Internet
+Centro universitário Santo Amaro
 
 👋 Olá! Eu sou o Lucas
 
